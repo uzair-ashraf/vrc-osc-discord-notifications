@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\VRCDiscordNotifications\bin\Release\netcoreapp3.1\VRCDiscordNotifications.exe
+C:\Users\user\source\repos\VRCDiscordNotifications\bin\Release\netcoreapp3.1\VRCDiscordNotifications.deps.json
+C:\Users\user\source\repos\VRCDiscordNotifications\bin\Release\netcoreapp3.1\VRCDiscordNotifications.runtimeconfig.json
+C:\Users\user\source\repos\VRCDiscordNotifications\bin\Release\netcoreapp3.1\VRCDiscordNotifications.runtimeconfig.dev.json
+C:\Users\user\source\repos\VRCDiscordNotifications\bin\Release\netcoreapp3.1\VRCDiscordNotifications.dll
+C:\Users\user\source\repos\VRCDiscordNotifications\bin\Release\netcoreapp3.1\VRCDiscordNotifications.pdb
+C:\Users\user\source\repos\VRCDiscordNotifications\bin\Release\netcoreapp3.1\OscCore.dll
+C:\Users\user\source\repos\VRCDiscordNotifications\bin\Release\netcoreapp3.1\Rug.Osc.dll
+C:\Users\user\source\repos\VRCDiscordNotifications\obj\Release\netcoreapp3.1\VRCDiscordNotifications.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\VRCDiscordNotifications\obj\Release\netcoreapp3.1\VRCDiscordNotifications.AssemblyInfo.cs
+C:\Users\user\source\repos\VRCDiscordNotifications\obj\Release\netcoreapp3.1\VRCDiscordNotifications.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\VRCDiscordNotifications\obj\Release\netcoreapp3.1\VRCDiscordNotifications.csproj.CopyComplete
+C:\Users\user\source\repos\VRCDiscordNotifications\obj\Release\netcoreapp3.1\VRCDiscordNotifications.dll
+C:\Users\user\source\repos\VRCDiscordNotifications\obj\Release\netcoreapp3.1\VRCDiscordNotifications.pdb
+C:\Users\user\source\repos\VRCDiscordNotifications\obj\Release\netcoreapp3.1\VRCDiscordNotifications.genruntimeconfig.cache
+C:\Users\user\source\repos\VRCDiscordNotifications\obj\Release\netcoreapp3.1\VRCDiscordNotifications.csproj.AssemblyReference.cache
